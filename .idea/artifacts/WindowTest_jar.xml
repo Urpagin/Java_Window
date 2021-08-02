@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WindowTest:jar">
+    <output-path>$PROJECT_DIR$/../../TestE</output-path>
+    <root id="archive" name="WindowTest.jar">
+      <element id="module-output" name="WindowTest" />
+    </root>
+  </artifact>
+</component>
